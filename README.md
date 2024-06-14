@@ -1,70 +1,39 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# Netlify link : [https://app.netlify.com/sites/monumental-cassata-92e164/overview](https://monumental-cassata-92e164.netlify.app/)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ # About  : 
+ It is a responsive navbar implementation using React and styled-components. It features a hamburger menu for mobile devices, ensuring a seamless user experience across different screen sizes.
 
-### `npm test`
+#TechStack
+* For FrontEnd : HTML, CSS, JS, REACT
+* For Styling : Styled Components
+* For Deploying : Netlify
+* For responsiveness: Media queries
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Features
+* Responsive Design: The navbar adjusts its layout to provide optimal usability on both desktop and mobile devices.
+* Hamburger Menu: Implemented to collapse and expand navigation items on smaller screens, enhancing user navigation.
+* Flexbox Layout: Utilized for aligning and positioning navbar elements, ensuring a clean and structured UI.
+  
+# Screenshots
+![Screenshot 2024-06-14 145259](https://github.com/ShudhanshuShekhar123/wilyer_task/assets/115460439/e54e6893-15de-4c8e-8c25-29891857ac58)
+![Screenshot 2024-06-14 145320](https://github.com/ShudhanshuShekhar123/wilyer_task/assets/115460439/88331b7e-fa4e-40fd-91f6-ee3eb1c293b8)
+![Screenshot 2024-06-14 145345](https://github.com/ShudhanshuShekhar123/wilyer_task/assets/115460439/35427bb6-f48f-4883-ab85-a3fa6c90df31)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot 2024-06-14 145259](https://github.com/ShudhanshuShekhar123/wilyer_task/assets/115460439/2d214f5a-0ae7-4364-8af5-7c96fe507d4c)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
