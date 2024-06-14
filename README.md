@@ -5,8 +5,10 @@
 
 
 
- # About  : 
- It is a responsive navbar implementation using React and styled-components. It features a hamburger menu for mobile devices, ensuring a seamless user experience across different screen sizes.
+ # About Assignment : 
+This assignment showcases a responsive navigation bar built using React and styled-components. The navbar includes a hamburger menu for mobile devices, ensuring an optimal user experience across different screen sizes. Additionally, it features visually appealing images and smooth transition effects to enhance the overall user experience.
+
+
 
 #TechStack
 * For FrontEnd : HTML, CSS, JS, REACT
