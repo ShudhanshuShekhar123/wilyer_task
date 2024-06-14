@@ -25,17 +25,3 @@ This assignment showcases a responsive navigation bar built using React and styl
 ![Screenshot 2024-06-14 145259](https://github.com/ShudhanshuShekhar123/wilyer_task/assets/115460439/e54e6893-15de-4c8e-8c25-29891857ac58)
 ![Screenshot 2024-06-14 145320](https://github.com/ShudhanshuShekhar123/wilyer_task/assets/115460439/88331b7e-fa4e-40fd-91f6-ee3eb1c293b8)
 ![Screenshot 2024-06-14 145345](https://github.com/ShudhanshuShekhar123/wilyer_task/assets/115460439/35427bb6-f48f-4883-ab85-a3fa6c90df31)
-
-
-
-
-
-
-
-
-![Screenshot 2024-06-14 145259](https://github.com/ShudhanshuShekhar123/wilyer_task/assets/115460439/2d214f5a-0ae7-4364-8af5-7c96fe507d4c)
-
-
-
-
-
